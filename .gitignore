@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Config files with sensitive data
+github_credentials.json
+repositories.json
+config_*.json
+*.json.bak
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git Commiter temp
+.git_commiter_temp/
+
+# Dummy file (too large)
+dummy_file.txt
+

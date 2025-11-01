@@ -1,0 +1,10 @@
+{
+  "start_date": "2025-01-01",
+  "end_date": "2025-01-31",
+  "skip_probability": 0.2,
+  "min_commits": 1,
+  "max_commits": 6,
+  "auto_push": false,
+  "repo_path": null
+}
+
